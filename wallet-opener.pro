@@ -1,3 +1,3 @@
 SOURCES += main.cpp
 QT += KWallet
-TARGET = wallet_opener.out
+TARGET = wallet-opener.out
